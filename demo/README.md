@@ -1,4 +1,8 @@
-# Recurrent Autoencoder for Music Generation
+# Long Short-Term Memory Autoencoder for Music Generation
+
+## Overview
+
+Generative models may be used to create original artistic or musical pieces from a given input (whether that be random noise or a 'template'). A long short-term memory autoencoder is used to generate a 'song' consisting of 8 chords.
 
 ## Setup and Installation
 
