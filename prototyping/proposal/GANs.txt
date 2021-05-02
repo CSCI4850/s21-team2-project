@@ -1,0 +1,13 @@
+Generative Averserial Networks (or GANs for short) are a type of generative model.
+
+Application:
+
+When using a Generative Adverserial Network, you are actually interacting with two distinct but interlocking networks. The generator will be henceforth refered to as G, whereas the discriminator will be henceforth referred to as D. G is pretrained using the sample data so that it can have a map of what various classifications of the target look like. A few points on this map are then shown to D, presented as potential examples of the sample set, alongside true samples in a random order. D then assigns to each object a probability that it originated from the original dataset. D is then taught which ones were and weren't, and G is taught which examples were more akin to the true thing, and which ones weren't. This cycle then repeats as both networks steadily improve.
+
+Advantages and Disadvantages:
+
+The primary disadvantage is that neither network can be fully trained all at once. They must take turns or else problems arise, such as D becoming overfitted, or G becoming stuck making sub-par objects. This means that training must be done one epoch at a time. However, the advantages are that the network will not merely begin to mimic the dataset, but rather create new examples of things that would fit within the dataset. This allows for more diversity, and helps to stave overfitting. 
+
+Resources:
+
+https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf

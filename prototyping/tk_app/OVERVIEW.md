@@ -1,0 +1,3 @@
+# Instructions
+
+To run the GUI executable, go to tk_app/dist/vgm_scraper.exe and simply double click it. A terminal as well as a small Tkinter window will pop up. Type the name of the video game you wish to save into the entry box. You may then scrape at anytime after that. You may interrupt the scraping process at any time and any saved files will be automatically deleted. The scrape may last up to 1 to 2 minutes depending on how many MIDIs you scrape, so please be patient. You will be prompted with a message box asking if you want to save the downloaded files once the scraping is complete. Downloaded files will be saved as \*.zip file to a directory of your choice. You may use 7-zip to unzip the file from there if you want to.
