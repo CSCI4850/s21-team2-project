@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['vgm_scraper.py'],
-             pathex=['C:\\Dev\\python\\CS4850\\TEAM2_ORGANIZATION_REPO\\tk_app'],
+             pathex=['C:\\Dev\\python\\CS4850\\TEAM2_FINAL_REPO\\prototyping\\tk_app'],
              binaries=[],
              datas=[],
              hiddenimports=[],
