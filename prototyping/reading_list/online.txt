@@ -13,5 +13,8 @@ https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-gene
 -- Clasical music
 https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5
 
---More recent LSTM Music Generation
+-- More recent LSTM Music Generation
 https://towardsdatascience.com/music-generation-through-deep-neural-networks-21d7bd81496e
+
+--LSTM vs LSTM-AE
+https://towardsdatascience.com/step-by-step-understanding-lstm-autoencoder-layers-ffab055b6352
