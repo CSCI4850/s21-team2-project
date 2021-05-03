@@ -10,7 +10,7 @@ LSTM-Autoencoder for Music Generation
 4. Jared Frazier
 
 
-[Video_Link](https://youtu.be/218ptA8V1RQ)
+##[Video_Link](https://youtu.be/218ptA8V1RQ)
 ## Demo
 
 Navigate to demo/demo.ipynb for a demonstration of a LSTM-Autoencoder's ability to produce original music.
