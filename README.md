@@ -8,6 +8,8 @@ LSTM-Autoencoder for Music Generation
 2. Ethan Lawing
 3. Romario Nan
 4. Jared Frazier
+
+
 [Video_Link]{https://youtu.be/218ptA8V1RQ}
 ## Demo
 
